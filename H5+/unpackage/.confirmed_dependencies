@@ -1,0 +1,127 @@
+{
+	"index.html": {
+		"refer": [
+			"plus/accelerometer.html",
+			"plus/barcode.html",
+			"plus/camera.html",
+			"plus/device.html",
+			"plus/downloader.html",
+			"plus/events.html",
+			"plus/file.html",
+			"plus/gallery.html",
+			"plus/geolocation.html",
+			"plus/maps.html",
+			"plus/message.html",
+			"plus/nativeobj.html",
+			"plus/navigator.html",
+			"plus/oauth.html",
+			"plus/orientation.html",
+			"plus/payment.html",
+			"plus/push.html",
+			"plus/proximity.html",
+			"plus/runtime.html",
+			"plus/share.html",
+			"plus/speech.html",
+			"plus/statistic.html",
+			"plus/storage.html",
+			"plus/uploader.html",
+			"plus/webview.html",
+			"plus/xhr.html",
+			"plus/zip.html",
+			"plus/njs.html",
+			"about.html"
+		]
+	},
+	"plus/accelerometer.html": {
+		"refer": [
+			"plus/accelerometer_shake.html"
+		]
+	},
+	"plus/barcode.html": {
+		"refer": [
+			"plus/barcode_scan.html",
+			"plus/barcode_scan2.html"
+		]
+	},
+	"plus/gallery.html": {
+		"refer": [
+			"plus/doc.html"
+		]
+	},
+	"plus/doc.html": {
+		"refer": [
+			"doc/gallery.html"
+		]
+	},
+	"plus/maps_map.html": {
+		"resources": [
+			"plus/maps_map_sub.html"
+		],
+		"refer": [
+			"plus/maps_map_sub.html"
+		]
+	},
+	"plus/maps.html": {
+		"refer": [
+			"plus/maps_map.html"
+		]
+	},
+	"plus/nativeobj.html": {
+		"refer": [
+			"plus/nativeobj_animation.html"
+		]
+	},
+	"plus/navigator.html": {
+		"refer": [
+			"plus/navigator_status.html"
+		]
+	},
+	"plus/orientation.html": {
+		"refer": [
+			"plus/orientation_level.html"
+		]
+	},
+	"plus/runtime.html": {
+		"refer": [
+			"plus/runtime_launch.html"
+		]
+	},
+	"plus/uploader.html": {
+		"refer": [
+			"plus/uploader_ret.html"
+		]
+	},
+	"plus/webview_animation.html": {
+		"refer": [
+			"plus/webview_new.html"
+		]
+	},
+	"plus/webview.html": {
+		"refer": [
+			"plus/webview_animation.html",
+			"plus/webview_embed.html",
+			"plus/webview_pulltorefresh.html",
+			"plus/webview_float.html",
+			"plus/webview_pullhead_custom.html",
+			"plus/webview_mask.html"
+		]
+	},
+	"plus/webview_pullhead_custom.html": {
+		"resources": [
+			"plus/webview_pullrefresh_custom.html"
+		],
+		"refer": [
+			"plus/webview_pullrefresh_custom.html"
+		]
+	},
+	"plus/webview_mask.html": {
+		"refer": [
+			"plus/webview_mask_side.html"
+		]
+	},
+	"plus/njs.html": {
+		"refer": [
+			"plus/njs_efficient.html"
+		]
+	}
+}
